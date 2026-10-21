@@ -1,0 +1,11 @@
+<svg class="stillness-mark" role="img" aria-labelledby="totem-title" viewBox="0 0 96 132" fill="none" color="#bc916e" stroke="currentColor" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round" xmlns="http://www.w3.org/2000/svg">
+  <title id="totem-title">Norse-inspired carved guardian totem</title>
+  <path d="M29 26 33 13 48 5 63 13 67 26 63 37v48l-6 16v15H39v-15l-6-16V37Z"/>
+  <path d="m33 25 15-11 15 11M37 29l11-8 11 8M48 5v9"/>
+  <path d="m33 37 8-4 7 5 7-5 8 4M36 41l7 2m10 0 7-2M45 41l-3 18 6 4 6-4-3-18"/>
+  <path d="m33 49 6 14 9 7 9-7 6-14M39 63l-2 16 11 20 11-20-2-16M43 71l10 12-10 12m10-24L43 83l10 12M48 99v8"/>
+  <path d="m29 31-8 7-3 21 5 24 10 9m34-61 8 7 3 21-5 24-10 9M25 43l-2 17 5 18m43-35 2 17-5 18"/>
+  <path d="M39 107h18M35 116h26l6 8H29Zm-6 8h38M39 112h18"/>
+  <path d="m43 29 5-4 5 4-5 4Zm-5 75-5 5 5 5m20-10 5 5-5 5"/>
+  <path d="M22 130h52" opacity=".6"/>
+</svg>

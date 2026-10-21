@@ -1,0 +1,96 @@
+[
+  {
+    "name": "hero-fjord",
+    "original": "generated_images/exec-375d0817-24b8-4d47-8132-981f0f256c62.png",
+    "file": "assets/hero-fjord.webp",
+    "width": 1672,
+    "height": 941,
+    "bytes": 157544,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "room-fjord",
+    "original": "generated_images/exec-4bfde258-70dc-4261-b49c-de0c1a850883.png",
+    "file": "assets/room-fjord.webp",
+    "width": 1500,
+    "height": 1000,
+    "bytes": 230446,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "room-loft",
+    "original": "generated_images/exec-4afaa2fb-120a-474c-9783-94d9451462ff.png",
+    "file": "assets/room-loft.webp",
+    "width": 1500,
+    "height": 1000,
+    "bytes": 238476,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "room-suite",
+    "original": "generated_images/exec-ce4b8e96-1084-4759-a332-c8c554938aa1.png",
+    "file": "assets/room-suite.webp",
+    "width": 1500,
+    "height": 1000,
+    "bytes": 257458,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "room-cabin",
+    "original": "generated_images/exec-6c6aa254-1f3f-4131-8986-96092a4d3a6a.png",
+    "file": "assets/room-cabin.webp",
+    "width": 1500,
+    "height": 1000,
+    "bytes": 244902,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "floating-sauna",
+    "original": "generated_images/exec-5cba18b8-d8e7-49f4-a4b9-1810fbc79ed4.png",
+    "file": "assets/floating-sauna.webp",
+    "width": 1500,
+    "height": 1000,
+    "bytes": 258998,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "experience-walk",
+    "original": "generated_images/exec-316aa865-0cfe-4578-b8f4-e904e71325fc.png",
+    "file": "assets/experience-walk.webp",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 261450,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "experience-fjord",
+    "original": "generated_images/exec-bb081c01-7580-471c-aaaa-3e2a104d0b85.png",
+    "file": "assets/experience-fjord.webp",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 206282,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "experience-table",
+    "original": "generated_images/exec-c86a5513-1d96-42b4-9315-a4be123b1bb1.png",
+    "file": "assets/experience-table.webp",
+    "width": 1122,
+    "height": 1402,
+    "bytes": 189220,
+    "generation": "Built-in image-generation tool"
+  },
+  {
+    "name": "norse-wooden-totems",
+    "original": "generated_images/exec-214fd2ee-4612-4e9c-b887-708ca75fd1fa.png",
+    "file": "assets/norse-wooden-totems.png",
+    "generation": "Built-in image-generation tool; user screenshot reference; transparent background"
+  },
+  {
+    "name": "norway-mountain-banner",
+    "original": "generated_images/exec-2190e319-2615-4f45-99e3-2802b4c349c7.png",
+    "file": "assets/norway-mountain-banner.jpg",
+    "preview": "assets/norway-mountain-banner-preview.jpg",
+    "generation": "Built-in image-generation tool; original Norwegian winter panorama"
+  }
+]
